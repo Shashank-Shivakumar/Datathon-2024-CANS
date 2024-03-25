@@ -1,4 +1,4 @@
-# Hotel Booking Demand Analysis
+# Hotel Booking Demand Analysis - Unlocking Insights
 
 ## Overview
 This repository contains a comprehensive analysis of a worldwide hotel booking dataset. Our primary goal is to explore this dataset through Exploratory Data Analysis (EDA) and develop models to predict the likelihood of booking cancellations. By identifying trends and patterns, we aim to provide insights that can help in optimizing booking strategies and minimizing cancellations.
