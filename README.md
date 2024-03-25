@@ -26,6 +26,7 @@ The dataset, `Booking_Data.xlsx`, includes the following columns:
 
 It encompasses a wide array of data points from hotel bookings, including booking details, customer information, and financial aspects.
 
+
 ## File Structure
 - `Booking_Data.xlsx`: The dataset file containing information on hotel bookings worldwide.
 - `case_study_competition.ipynb`: A Jupyter notebook that contains all the Python code used for data analysis and modeling.
